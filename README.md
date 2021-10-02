@@ -1,5 +1,7 @@
 ## Hacktoberfest-2021
 
+ ![Code](https://pbs.twimg.com/media/FAMndZzUUAIDfgv?format=jpg&name=large)
+
 ## Hello World! 🌐  
 # Newbies who would love to take up coding and get hands on experience 💻  What you will learn?  
 
@@ -12,4 +14,6 @@
    (propose changes to the main branch) ```Merge``` your branch to the main branch 
 
  By perfoming all these actions you would be contributing to [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
+ 
+ 
  ![Image of Hacktoberfest](https://pbs.twimg.com/media/FAcJLiAVkAg0lBI?format=jpg&name=900x900)
