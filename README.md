@@ -3,7 +3,7 @@
  ![Code](https://pbs.twimg.com/media/FAMndZzUUAIDfgv?format=jpg&name=large)
 
 ## Hello World! 🌐  
-# Newbies who would love to take up coding and get hands on experience 💻  What you will learn?  
+Newbies who would love to take up coding and get hands on experience 💻  What you will learn?  
 
 *  Create a ```repository``` (project) with a github account
 * ```Copy``` (or clone) the repository to your local machine
