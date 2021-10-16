@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+struct time
+{
+    int hours;
+    int mins;
+    int secs;
+};
+
+int main()
+{
+    time t, T;
+
+    cout << "Enter number of hours: "; cin >> t.hours;
+    cout << "Enter number of minutes: "; cin >> t.mins;
+    cout << "Enter number of seconds: "; cin >> t.secs;
+
+    T.secs = (t.hours * 3600) + (t.mins * 60) + (t.secs);
+    cout << "Total number of seconds: " << T.secs << endl;
+
+    return 0;
+}
+
